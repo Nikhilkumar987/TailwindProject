@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Toggle current answer
         if (!isOpen) {
           answer.classList.remove('hidden');
-          icon.classList.add('rotate-180');
+         
         }
       });
     });
